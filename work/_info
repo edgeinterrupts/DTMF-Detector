@@ -1,0 +1,72 @@
+m255
+13
+cModel Technology
+dC:\Documents and Settings\Brian\Desktop\dtmfdetector
+Edtmfdetector
+w1169921274
+DP ieee math_real oD?5Z>?H7f@[zGU8[Za033
+DP ieee std_logic_unsigned UQ2?7D@8LJXmDo0Vj>ZmV2
+DP ieee std_logic_arith 8ROOKc>cMY[SbKKTiA41[3
+DP ieee std_logic_1164 TPE2^PHV59jzFVg?266Ke1
+FC:/Documents and Settings/Brian/My Documents/RIT/courses/20062/620DesignAutomationofDigitalSystemslab/dtmfproject/project/dtmfdetector.vhd
+l0
+L7
+V^G9XBW^@1hXa46mDzdR7o2
+OX;C;6.1e;31
+31
+o-work work -O0
+tExplicit 1 GenerateLoopIterationMax 100000
+Abehavioral
+DP ieee math_real oD?5Z>?H7f@[zGU8[Za033
+DP ieee std_logic_unsigned UQ2?7D@8LJXmDo0Vj>ZmV2
+DP ieee std_logic_arith 8ROOKc>cMY[SbKKTiA41[3
+DP ieee std_logic_1164 TPE2^PHV59jzFVg?266Ke1
+DE work dtmfdetector ^G9XBW^@1hXa46mDzdR7o2
+l35
+L23
+V>DkG4;T5AlUW4<D80c@E=2
+OX;C;6.1e;31
+31
+M4 ieee std_logic_1164
+M3 ieee std_logic_arith
+M2 ieee std_logic_unsigned
+M1 ieee math_real
+o-work work -O0
+tExplicit 1 GenerateLoopIterationMax 100000
+Etb_vhd
+w1169920516
+DP ieee numeric_std SaR;@VQT[6TS:VMJ;OeA30
+DP std textio c[K`g_K:AUaaO0m]hHcgT1
+DP ieee std_logic_textio LlB`ki`D2I94`PfoaXCMS0
+DP ieee std_logic_arith 8ROOKc>cMY[SbKKTiA41[3
+DP ieee std_logic_unsigned UQ2?7D@8LJXmDo0Vj>ZmV2
+DP ieee std_logic_1164 TPE2^PHV59jzFVg?266Ke1
+FC:/Documents and Settings/Brian/My Documents/RIT/courses/20062/620DesignAutomationofDigitalSystemslab/dtmfproject/project/TB.vhd
+l0
+L8
+VY9^Q5[3VP62WlaN`iH9gl1
+OX;C;6.1e;31
+31
+o-work work -O0
+tExplicit 1 GenerateLoopIterationMax 100000
+Abehavior
+DP ieee numeric_std SaR;@VQT[6TS:VMJ;OeA30
+DP std textio c[K`g_K:AUaaO0m]hHcgT1
+DP ieee std_logic_textio LlB`ki`D2I94`PfoaXCMS0
+DP ieee std_logic_arith 8ROOKc>cMY[SbKKTiA41[3
+DP ieee std_logic_unsigned UQ2?7D@8LJXmDo0Vj>ZmV2
+DP ieee std_logic_1164 TPE2^PHV59jzFVg?266Ke1
+DE work tb_vhd Y9^Q5[3VP62WlaN`iH9gl1
+l59
+L12
+ViAlC2>Q[[zkMWXX40YYgm3
+OX;C;6.1e;31
+31
+M6 ieee std_logic_1164
+M5 ieee std_logic_unsigned
+M4 ieee std_logic_arith
+M3 ieee std_logic_textio
+M2 std textio
+M1 ieee numeric_std
+o-work work -O0
+tExplicit 1 GenerateLoopIterationMax 100000
